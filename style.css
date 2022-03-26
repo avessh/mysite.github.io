@@ -1,0 +1,247 @@
+
+/* Home main section  */
+
+#main {
+
+    padding-bottom: 22%;
+   
+    text-align: center;
+    background-image: url("images/vasanth-SHP-kDkeNgE-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+   
+}
+
+#main-heading {
+
+    padding-top: 17%;
+    color: white;
+}
+#main-heading1 {
+    color: white;
+}
+
+#avesh {
+    color: #D83A56;
+}
+
+
+
+
+
+/* navbar secton starting  */
+
+#navbar {
+    
+    font-family: 'Rubik', sans-serif;
+    color: white;
+
+}
+
+/* about section  */
+
+#about {
+
+    margin-bottom: 10%;
+
+    
+}
+
+#about-heading {
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #343A40;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 3.5rem;
+    
+}
+
+#my-image {
+
+    
+    padding-bottom: 5%;
+}
+
+.row {
+
+    text-align: center;
+    
+}
+
+#who {
+    margin-top: 6%;
+    display: flex;
+    justify-content: center;
+}
+
+#who-i-am {
+    font-family: 'Teko', sans-serif;
+    color: grey;
+    margin-left: 0%;
+}
+
+
+
+
+
+
+
+
+/* i can design section  */
+
+#design {
+    text-align: center;
+    background-color: whitesmoke;
+    margin-top: 10%;
+    /* margin-bottom: 10%; */
+    padding-bottom: 15%;
+}
+#responsive-gif1 {
+
+    width: 70%;
+    border-radius: 5%;
+  }
+
+#design-h1 {
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #343A40;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 3.5rem;
+}
+
+#design-h2 {
+
+    
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #343A40;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 2.5rem;
+   
+}
+#responsive-gif2 {
+
+    border-radius: 5%;
+    width: 70%;
+}
+
+#design-h3 {
+   
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: #343A40;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 2.5rem;
+}
+
+#responsive-gif3 {
+
+    border-radius: 5%;
+    width: 70%;
+
+}
+
+/* Contact section  */
+
+#contact {
+  
+    /* background-image: url("images/volodymyr-hryshchenko-D-WqjD9AcrM-unsplash.jpg"); */
+    background-color: white;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* margin-top: 10%; */
+    padding-bottom: 10%;
+    color: grey
+    font-family: 'Rubik', sans-serif;
+   
+       
+        
+}
+
+#contact-h1 {
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: black;
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 3.5rem;
+   
+}
+
+
+.container {
+    width: 500px;
+    max-width: 500px;
+    margin-left: 50%;
+    padding: 20px;
+}
+
+.form-group {
+    width: 100%;
+    margin-top: 20px;
+    font-size: 20px;
+   padding-left: 20%;
+   padding-right: 20%;
+}
+.form-group input ,
+.form-group textarea {
+    width: 100%;
+}
+
+textarea{
+    resize: vertical;
+}
+
+button {
+    width: 30%;
+    border: none;
+    outline: none;
+    padding: 20px;
+    font-size: 24px;
+    border-radius: 8%;
+    cursor: pointer;
+    background-color: powderblue;
+    transition: all;
+    transition-duration: 0.1s;
+   
+
+}
+
+button:hover {
+    width: 32%;
+    color: grey;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px) {
+    
+#design-h1 {
+
+  
+}
+  }
+
+#foot {
+
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+
+}
+
+#insta {
+    size: 10px;
+}
+
+
+
